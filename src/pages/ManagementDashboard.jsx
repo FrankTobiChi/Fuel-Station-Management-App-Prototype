@@ -1,0 +1,1 @@
+export default function ManagementDashboard() { return <h1>Management Dashboard</h1>; }

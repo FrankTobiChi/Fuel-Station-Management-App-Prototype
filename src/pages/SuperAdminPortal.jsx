@@ -1,0 +1,1 @@
+export default function SuperAdminPortal() { return <h1>Super Admin Portal</h1>; }

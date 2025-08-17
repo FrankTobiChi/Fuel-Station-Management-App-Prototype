@@ -1,0 +1,1 @@
+export default function CashierPortal() { return <h1>Cashier Portal</h1>; }
